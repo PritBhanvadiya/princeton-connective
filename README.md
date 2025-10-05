@@ -1,36 +1,41 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Princeton Connective
 
-## Getting Started
+Hi there
 
-First, run the development server:
+This project is built using **Next.js (JavaScript)** and **TailwindCSS**.  
+I’ve also used **GSAP**, **Framer Motion**, and **Swiper** for animations and sliders.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Pages Included
+- Home page  
+- About page  
+- Blog page  
+- Blog detail page  
+- Contact page  
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+The header has a “Company” dropdown — all the grouped pages under it are completed.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## Why I Added a Blog Section
+I wanted to show my skills in **dynamic routing** and how I handle **layout optimization** in Next.js.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## About the Icons
+Some icons are slightly different from the original design because those were part of a builder package.  
+I replaced most of them manually and used downloaded ones where possible.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## Responsive Layout
+The original design wasn’t very responsive, so I created my own responsive layout using TailwindCSS.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Summary
+This project helped me practice:
+- Working with Next.js structure  
+- Using GSAP and Framer Motion for animations  
+- Creating custom layouts and responsive pages
