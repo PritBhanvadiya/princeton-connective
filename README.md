@@ -47,8 +47,3 @@ npm install
 npm run dev
 
 
----
-
-Would you like me to make it sound a bit **more portfolio-polished** (less like documentation, more storytelling-style for recruiters)?  
-That version would read more like a personal project highlight for your GitHub profile or website.
-
