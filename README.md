@@ -1,41 +1,54 @@
 # Princeton Connective
 
-Hi there
-
-This project is built using **Next.js (JavaScript)** and **TailwindCSS**.  
-I’ve also used **GSAP**, **Framer Motion**, and **Swiper** for animations and sliders.
+A modern showcase website built with **React**, **Next.js**, and **Tailwind CSS**.  
+Originally created as part of a technical interview task, this project has been refined and expanded to highlight my front-end development skills, component design, and responsive layout techniques.
 
 ---
 
-## Pages Included
-- Home page  
-- About page  
-- Blog page  
-- Blog detail page  
-- Contact page  
+## 🚀 Tech Stack
 
-The header has a “Company” dropdown — all the grouped pages under it are completed.
+- **React.js** – Component-based UI architecture  
+- **Next.js** – Framework for server-side rendering and routing  
+- **Tailwind CSS** – Utility-first styling for rapid, responsive design  
 
 ---
 
-## Why I Added a Blog Section
-I wanted to show my skills in **dynamic routing** and how I handle **layout optimization** in Next.js.
+## 🌟 Features
+
+- Clean, modern showcase design  
+- Fully responsive layout (mobile-first)  
+- Smooth transitions and animations  
+- Modular, reusable components  
+- SEO-friendly structure with Next.js  
 
 ---
 
-## About the Icons
-Some icons are slightly different from the original design because those were part of a builder package.  
-I replaced most of them manually and used downloaded ones where possible.
+## 🧩 Project Purpose
+
+This project serves as a **portfolio piece** to demonstrate front-end architecture, attention to UI/UX detail, and modern development practices.
 
 ---
 
-## Responsive Layout
-The original design wasn’t very responsive, so I created my own responsive layout using TailwindCSS.
+## ⚙️ Getting Started
+
+To run this project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/princeton-connective.git
+
+# Navigate to project folder
+cd princeton-connective
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
+
 
 ---
 
-## Summary
-This project helped me practice:
-- Working with Next.js structure  
-- Using GSAP and Framer Motion for animations  
-- Creating custom layouts and responsive pages
+Would you like me to make it sound a bit **more portfolio-polished** (less like documentation, more storytelling-style for recruiters)?  
+That version would read more like a personal project highlight for your GitHub profile or website.
+
